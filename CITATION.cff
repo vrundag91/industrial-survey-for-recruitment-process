@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Industrial Survey For Recruitment Process
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Vrunda Gadesha
+    email: vrunda.g@ahduni.edu.in
+repository-code: >-
+  https://github.com/vrundag91/industrial-survey-for-recruitment-process.git
+keywords:
+  - Recrutment Process
+  - Industry 4.0
+  - Recruitment in IT
+  - Recruitment in Finance
+  - Recruitment in Higher Education
+  - Recruitment  in Legal
+version: '2.2'
+date-released: '2023-01-23'
