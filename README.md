@@ -5,6 +5,6 @@
 </ul>
 <p>The distribution of the responses is represented in Figure-1 and Figure-2. As we can observe in Figure-1 State Maharashtra shows the highest responses, because two cities, Mumbai and Pune falls under Maharashtra. Thus, the cumulative responses from both the cities are displayed in Maharashtra.</p>
 
-![Git clone command](https://github.com/vrundag91/industrial-survey-for-recruitment-process/blob/main/figures/response-distribution.png | width=100)
+<img src="https://github.com/vrundag91/industrial-survey-for-recruitment-process/blob/main/figures/response-distribution.png" width="300px")
 
 <p>To see the independent responses of the cities, refer Figure-2. It shows frequency of responses from individual city. The data points in this plot does not have any outliers, so we do not have any bias in the demographic data.</p>
