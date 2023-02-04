@@ -11,6 +11,16 @@
 <div>
     <img src="https://github.com/vrundag91/industrial-survey-for-recruitment-process/blob/main/figures/response-distribution_bar_plot.png" width="300"/>
 </div>
-![PAN India Distribution](https://github.com/vrundag91/industrial-survey-for-recruitment-process/blob/main/figures/response-distribution.png "title-1") ![City-wise Distribution](https://github.com/vrundag91/industrial-survey-for-recruitment-process/blob/main/figures/response-distribution_bar_plot.png "title-2")
+
+<table>
+  <tr>
+    <td>First Screen Page</td>
+    <td>Holiday Mention</td>
+  </tr>
+  <tr>
+    <td><img src="figures/response-distribution.png" width=370></td>
+    <td><img src="figures/response-distribution_bar_plot.png" width=370></td>
+  </tr>
+ </table>
 
 <p>To see the independent responses of the cities, refer Figure-2. It shows frequency of responses from individual city. The data points in this plot does not have any outliers, so we do not have any bias in the demographic data.</p>
