@@ -1,4 +1,4 @@
-<h4>supporting files</h4>
+<h4>Supporting Files</h4>
 
 <ul>
   <li>Shape Files for India Cartpgram Map - These files supports the cartogram to be created in python.</li>
