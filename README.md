@@ -63,7 +63,7 @@
 <table>
   <tr>
     <td><img src="figures/Sector-wise-keywords.png"></td>
-    <td width=60%><p>As shown in the Figure-9, Education Sector, Finance Sector, and IT Sector is trying to pre-decide keywords before rolling out any job position. Only companies which falls in another categories shows the response that they are not sensitive about fixing keywords before starting the recruitment process.</p></td>
+    <td width=40%><p>As shown in the Figure-9, Education Sector, Finance Sector, and IT Sector is trying to pre-decide keywords before rolling out any job position. Only companies which falls in another categories shows the response that they are not sensitive about fixing keywords before starting the recruitment process.</p></td>
   </tr>
  </table>
  
