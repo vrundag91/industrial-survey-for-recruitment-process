@@ -42,3 +42,55 @@
 
 <img src="figures/recruitment_process.png">
  
+<h3>Top Criteria to scan the resumes</h3>
+<p>During the recruitment process criteria of scanning the resume is important and base step in the whole process. Following are the criteria(s) picked by majority of the companies during the survey.</p>
+<ul>
+    <li>Analyse the qualities and traits of top performing employees currently in the role</li>
+    <li>Define the criteria for minimum education qualification based on job description.</li>
+    <li>Define the criteria for minimum technical skill set based on job description.</li>
+    <li>Define the criteria for additional technical skill set based on job description</li>
+    <li>Analyse the previous work experience from the resume</li>
+</ul>
+<p>Apart from these general criteria picked by companies from all the sectors. Some criteria are also added by some specific sectors, following is the summery of the criteria considered according to the sector’s requirements and priorities.</p>
+<ul>
+    <li>Finance Sector: Consider the candidate’s background with the previous company and the background of the higher education college (like check-out the candidates from IIMs and IITs)</li>
+    <li>Legal Sector: Individual practicing records, Goodwill in the market and Licences if any.</li>
+    <li>Education: Research Publications of the candidates</li>
+</ul>
+
+<h3>Identification of keywords in the organizations</h3>
+
+<table>
+  <tr>
+    <td><img src="figures/Sector-wise-keywords.png"></td>
+    <td width=60%><p>As shown in the Figure-9, Education Sector, Finance Sector, and IT Sector is trying to pre-decide keywords before rolling out any job position. Only companies which falls in another categories shows the response that they are not sensitive about fixing keywords before starting the recruitment process.</p></td>
+  </tr>
+ </table>
+ 
+ <h3>Do Companies follow the 4IR/Industry 4.0 standards?</h3>
+ 
+ <table>
+  <tr>
+    <td width=60%>
+    <p>As Shown in Figure-10, 51% of the companies are trying to accommodate 4IR/Industry 4.0 competencies and 28.1% of the companies are aware about it but currently not following the standards. These 28.1% of the companies are potentially looking forward for solutions which can help them to step into 4IR standards. And 51% of the companies are looking forward for the solutions which can help them adopting smoothly from our sample.</p>
+    <p>Thus, we can conclude that majority of the companies are following 4IR standards and willing to use systems which accommodate 4IR/Industry 4.0 approach.</p>
+    </td>
+    <td><img src="figures/industry_4.0_adoption.png"></td>
+  </tr>
+ </table>
+ 
+ <h3>Market Response for proposed system:</h3>
+ 
+ <table>
+  <tr>
+    <td><img src="figures/final_response.png"></td>
+    <td width=60%>
+    <p>As shown in Figure-11, 50% of the companies are positive and sure about the proposed system, that this system is useful for them.  34.4 % of the companies are positive about the system but they are not sure about the utility of the system, they would like to use the proposed system and experience the process. 15.6% of the companies believe that this system is not useful for them.</p>
+    <p>If we dig one more layer of this aspect in the survey, we can see the approach of the organizations towards our proposed system based on organization’s size.</p>
+    </td>
+  </tr>
+ </table>
+ 
+ <p>The further analysis says that only the companies fall under the cap of “Micro sized company” does not find this system useful. So, the target users of our system are “Small sized companies”, “Medium sized companies” and “Large sized companies”.</p>
+ 
+<img src="figures/company-size-wise-response.png"> 
