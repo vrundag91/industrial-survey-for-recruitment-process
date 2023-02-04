@@ -23,6 +23,6 @@
 <table>
   <tr>
     <td><p>Here we receive average 19.98 % response from each sector which we considered for industrial survey. So according to the pattern the data is no biased in terms of sectors. (Median for the same is 20.8 – Thus there are no outliers in the data which can affect the mean.) Here “Other” sector includes the Pharma, Consultancy, import-export, Manufacturing, and many other sectors.</p></td>
-    <td><img src="figures/sector-wise-distribution-of-response.png"></td>
+    <td><img src="figures/sector-wise-distribution-of-response.png" width=50%></td>
   </tr>
  </table>
