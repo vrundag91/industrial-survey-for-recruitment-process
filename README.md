@@ -22,7 +22,23 @@
 
 <table>
   <tr>
-    <td width=50%><p>Here we receive average 19.98 % response from each sector which we considered for industrial survey. So according to the pattern the data is no biased in terms of sectors. (Median for the same is 20.8 – Thus there are no outliers in the data which can affect the mean.) Here “Other” sector includes the Pharma, Consultancy, import-export, Manufacturing, and many other sectors.</p></td>
+    <td width=60%><p>Here we receive average 19.98 % response from each sector which we considered for industrial survey. So according to the pattern the data is no biased in terms of sectors. (Median for the same is 20.8 – Thus there are no outliers in the data which can affect the mean.) Here “Other” sector includes the Pharma, Consultancy, import-export, Manufacturing, and many other sectors.</p></td>
     <td><img src="figures/sector-wise-distribution-of-response.png"></td>
   </tr>
  </table>
+ 
+<h3>Recruitment Pattern</h3> 
+
+<table>
+  <tr>
+    <td><img src="figures/Sector-wise-Recruitment-Patterns.png"></td>
+    <td width=60%><p>The data is collected to check the recruitment pattern of the organization sector-wise. Figure-4 shows distribution for attempts of number of recruitments in the organization according to sector.There is a clear visibility of ‘Round the year recruitment process’ in Education, Finance, and IT sector. For legal sector once in a year recruitment seems enough and in other sectors it is based on the requirement. Thus, majority of the organizations are now flexible with the recruitment timings. So, in the market there is no season of recruitment.
+</p></td>
+  </tr>
+ </table>
+ 
+ <h3>Recruitment Process</h3>
+ <p>All the defined sectors have little difference in recruitment process and currently there is no specific scanning process which check the competency of the candidate. Thus, this shows the clear market requirement of system which can accurately identify the competencies from the resumes – which can be plugged into this already defined system</p>
+
+<img src="figures/recruitment_process.png">
+ 
