@@ -68,6 +68,17 @@
 
 <h3>Compute the expected Frequency Table:</h3>
 
+<p>The expected frequency in a contingency table is the number of observations that would be expected in each cell if the variables being analyzed are independent. The expected frequency can be calculated using the following equation:</p>
+
+<p><b>Expected Frequency (E) = (Row Total * Column Total) / Grand Total</b></p>
+<p>Where,</p>
+<ul>
+  <li>Row Total is the sum of the observations in a given row</li>
+  <li>Column Total is the sum of the observations in a given column</li>
+  <li>Grand Total is the sum of all the observations in the contingency table</li>
+</ul>
+
+<h4>Frequency Table:</h4>
 <table>
   <tr>
     <td> </td>
