@@ -123,3 +123,31 @@
     <td>96</td>
   </tr>
  </table>
+
+<h3>Compute the χ2 test stistics:</h3>
+
+<p>χ2 = Σ [(Observed frequency - Expected frequency)^2 / Expected frequency]</p>
+<p>Where,</p>
+<ul>
+  <li>Observed frequency is the actual number of observations in a given cell of the contingency table</li>
+  <li>Expected frequency is the number of observations that would be expected in that cell if the variables being analyzed are independent, calculated using the formula: (Row Total * Column Total) / Grand Total</li>
+  <li>Σ represents the sum of the differences between the observed and expected frequencies squared, divided by the expected frequency, for each cell in the contingency table</li>
+  <li></li>
+</ul>
+
+<p>Using the above equation, we computed the vaule of χ2,</p>
+<p><b><u>χ2 = 40.7245</u></b></p>
+
+<p>Now, we have:</p>
+<p>α = 0.05</p>
+<p>DF = 6</p>
+
+<p><b><u>χ2(6,0.05) = 12.592</u></b></p>
+
+<p>When we perform a chi-squared test, you check the calculated chi-squared statistic against a critical value to determine if there is a significant association between the variables being analyzed. The critical value is obtained from a chi-squared distribution table, and depends on the level of significance (alpha) and the degrees of freedom (df).</p>
+
+<h3>Summary:</h3>
+
+<p>The chi-squared value of 40.7245 and critical value of 12.592 are calculated based on a chi-squared test. The significance level (alpha) is set to 0.05 and the degrees of freedom (df) is 6.</p>
+<p>The comparison of the calculated chi-squared value (40.7245) with the critical value (12.592) is used to test the hypothesis that there is no association between the variables being analyzed. If the calculated chi-squared value is greater than the critical value, it indicates that there is a significant association between the variables and the null hypothesis is rejected.</p>
+<p>In this case, with a calculated chi-squared value of 40.7245 and critical value of 12.592, <b><u>the null hypothesis is rejected</u></b>. This means that there is a significant association between the variables being analyzed, based on a significance level of 0.05 and degrees of freedom of 6.</p>
