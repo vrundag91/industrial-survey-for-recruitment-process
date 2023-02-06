@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td><b>Micro</b></td>
-    <td>1</td>
+    <td><center>1</center></td>
     <td>3</td>
     <td>2</td>
     <td>6</td>
