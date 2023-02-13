@@ -1,5 +1,5 @@
 <h1>Chi-Square Test for Industrial Survey</h1>
-<p>Chi-square test is a statistical test used to determine if there is a significant association between two categorical variables. In this case, the two variables being analyzed are "company size" and "final response from the industry". The test is performed by calculating the difference between the expected frequencies and the observed frequencies in the contingency table and checking if the difference is significant enough to reject the null hypothesis, which assumes there is no association between the variables. If the p-value of the test is less than a predetermined significance level (usually 0.05), then we reject the null hypothesis and conclude that there is a significant association between the variables</p>
+<p>Chi-square test is a statistical test used to determine if there is a significant association between two categorical variables. In this case, the two variables being analyzed are <b>"company size"</b> and <b>"final response from the industry".</b> The test is performed by calculating the difference between the expected frequencies and the observed frequencies in the contingency table and checking if the difference is significant enough to reject the null hypothesis, which assumes there is no association between the variables. If the p-value of the test is less than a predetermined significance level (usually 0.05), then we reject the null hypothesis and conclude that there is a significant association between the variables</p>
 
 <h3>Frequency Table:</h3>
 
@@ -13,38 +13,38 @@
   </tr>
   <tr>
     <td><b>Micro</b></td>
-    <td>1</td>
+    <td>2</td>
     <td>3</td>
     <td>2</td>
-    <td>6</td>
+    <td>7</td>
   </tr>
   <tr>
     <td><b>Small</b></td>
-    <td>1</td>
+    <td>6</td>
+    <td>10</td>
     <td>9</td>
-    <td>9</td>
-    <td>19</td>
+    <td>25</td>
   </tr>
   <tr>
     <td><b>Medium</b></td>
-    <td>13</td>
-    <td>14</td>
-    <td>1</td>
-    <td>28</td>
+    <td>18</td>
+    <td>20</td>
+    <td>2</td>
+    <td>40</td>
   </tr>
   <tr>
     <td><b>Large</b></td>
-    <td>33</td>
-    <td>7</td>
-    <td>3</td>
-    <td>43</td>
+    <td>37</td>
+    <td>11</td>
+    <td>6</td>
+    <td>54</td>
   </tr>
   <tr>
     <td><b>Total</b></td>
-    <td>48</td>
-    <td>33</td>
-    <td>15</td>
-    <td>96</td>
+    <td>63</td>
+    <td>44</td>
+    <td>19</td>
+    <td>126</td>
   </tr>
  </table>
 
@@ -78,52 +78,6 @@
   <li>Grand Total is the sum of all the observations in the contingency table</li>
 </ul>
 
-<h4>Frequency Table:</h4>
-<table>
-  <tr>
-    <td> </td>
-    <td><b>Yes</b>(Company is Interested to use our proposed system.)</td>
-    <td><b>Try</b>(Company is not sure, but positive about our proposed system and wants to try it.)</td>
-    <td><b>No</b>(Company is Not Interested to use our proposed system.)</td>
-    <td><b>Total</b></td>
-  </tr>
-  <tr>
-    <td><b>Micro</b></td>
-    <td>3</td>
-    <td>2.0625</td>
-    <td>0.0375</td>
-    <td>6</td>
-  </tr>
-  <tr>
-    <td><b>Small</b></td>
-    <td>9.5</td>
-    <td>6.53125</td>
-    <td>2.96875</td>
-    <td>19</td>
-  </tr>
-  <tr>
-    <td><b>Medium</b></td>
-    <td>14</td>
-    <td>9.625</td>
-    <td>4.375</td>
-    <td>28</td>
-  </tr>
-  <tr>
-    <td><b>Large</b></td>
-    <td>21.5</td>
-    <td>14.78125</td>
-    <td>6.71875</td>
-    <td>43</td>
-  </tr>
-  <tr>
-    <td><b>Total</b></td>
-    <td>48</td>
-    <td>33</td>
-    <td>15</td>
-    <td>96</td>
-  </tr>
- </table>
-
 <h3>Compute the χ2 test stistics:</h3>
 
 <p>χ2 = Σ [(Observed frequency - Expected frequency)^2 / Expected frequency]</p>
@@ -136,7 +90,7 @@
 </ul>
 
 <p>Using the above equation, we computed the vaule of χ2,</p>
-<p><b><u>χ2 = 40.7245</u></b></p>
+<p><b><u>χ2 = 25.4759</u></b></p>
 
 <p>Now, we have:</p>
 <p>α = 0.05</p>
@@ -148,6 +102,6 @@
 
 <h3>Summary:</h3>
 
-<p>The chi-squared value of 40.7245 and critical value of 12.592 are calculated based on a chi-squared test. The significance level (alpha) is set to 0.05 and the degrees of freedom (df) is 6.</p>
-<p>The comparison of the calculated chi-squared value (40.7245) with the critical value (12.592) is used to test the hypothesis that there is no association between the variables being analyzed. If the calculated chi-squared value is greater than the critical value, it indicates that there is a significant association between the variables and the null hypothesis is rejected.</p>
-<p>In this case, with a calculated chi-squared value of 40.7245 and critical value of 12.592, <b><u>the null hypothesis is rejected</u></b>. This means that there is a significant association between the variables being analyzed, based on a significance level of 0.05 and degrees of freedom of 6.</p>
+<p>The chi-squared value of 25.4759 and critical value of 12.592 are calculated based on a chi-squared test. The significance level (alpha) is set to 0.05 and the degrees of freedom (df) is 6.</p>
+<p>The comparison of the calculated chi-squared value (25.4759) with the critical value (12.592) is used to test the hypothesis that there is no association between the variables being analyzed. If the calculated chi-squared value is greater than the critical value, it indicates that there is a significant association between the variables and the null hypothesis is rejected.</p>
+<p>In this case, with a calculated chi-squared value of 25.4759 and critical value of 12.592, <b><u>the null hypothesis is rejected</u></b>. This means that there is a significant association between the variables being analyzed, based on a significance level of 0.05 and degrees of freedom of 6.</p>
