@@ -1,4 +1,5 @@
 <h1>Chi-Square Test for Industrial Survey</h1>
+<h2>Case - I Company Size v/s Final Response</h2>
 <p>Chi-square test is a statistical test used to determine if there is a significant association between two categorical variables. In this case, the two variables being analyzed are <b>"company size"</b> and <b>"final response from the industry".</b> The test is performed by calculating the difference between the expected frequencies and the observed frequencies in the contingency table and checking if the difference is significant enough to reject the null hypothesis, which assumes there is no association between the variables. If the p-value of the test is less than a predetermined significance level (usually 0.05), then we reject the null hypothesis and conclude that there is a significant association between the variables</p>
 
 <h3>Frequency Table:</h3>
