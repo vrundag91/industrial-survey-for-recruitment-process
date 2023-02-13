@@ -106,3 +106,54 @@
 <p>The chi-squared value of 25.4759 and critical value of 12.592 are calculated based on a chi-squared test. The significance level (alpha) is set to 0.05 and the degrees of freedom (df) is 6.</p>
 <p>The comparison of the calculated chi-squared value (25.4759) with the critical value (12.592) is used to test the hypothesis that there is no association between the variables being analyzed. If the calculated chi-squared value is greater than the critical value, it indicates that there is a significant association between the variables and the null hypothesis is rejected.</p>
 <p>In this case, with a calculated chi-squared value of 25.4759 and critical value of 12.592, <b><u>the null hypothesis is rejected</u></b>. This means that there is a significant association between the variables being analyzed, based on a significance level of 0.05 and degrees of freedom of 6.</p>
+
+<h2>Case - II Sector v/s Final Response</h2>
+
+<p>A chi-squared test is being performed to examine the relationship between two variables: 'sector' and 'final response.' The contingency table organizes the data and the calculated chi-squared statistic is compared to the critical value to determine significance. If the statistic is greater than the critical value, it means there is a significant association between sector and final response, and the null hypothesis is rejected.</p>
+
+<h3>Frequency Table:</h3>
+
+<table>
+  <tr>
+    <td> </td>
+    <td><b>Yes</b>(Company is Interested to use our proposed system.)</td>
+    <td><b>Try</b>(Company is not sure, but positive about our proposed system and wants to try it.)</td>
+    <td><b>No</b>(Company is Not Interested to use our proposed system.)</td>
+    <td><b>Total</b></td>
+  </tr>
+  <tr>
+    <td><b>Micro</b></td>
+    <td>2</td>
+    <td>3</td>
+    <td>2</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <td><b>Small</b></td>
+    <td>6</td>
+    <td>10</td>
+    <td>9</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td><b>Medium</b></td>
+    <td>18</td>
+    <td>20</td>
+    <td>2</td>
+    <td>40</td>
+  </tr>
+  <tr>
+    <td><b>Large</b></td>
+    <td>37</td>
+    <td>11</td>
+    <td>6</td>
+    <td>54</td>
+  </tr>
+  <tr>
+    <td><b>Total</b></td>
+    <td>63</td>
+    <td>44</td>
+    <td>19</td>
+    <td>126</td>
+  </tr>
+ </table>
