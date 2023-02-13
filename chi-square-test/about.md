@@ -106,7 +106,7 @@
 <p>The comparison of the calculated chi-squared value (25.4759) with the critical value (12.592) is used to test the hypothesis that there is no association between the variables being analyzed. If the calculated chi-squared value is greater than the critical value, it indicates that there is a significant association between the variables and the null hypothesis is rejected.</p>
 <p>In this case, with a calculated chi-squared value of 25.4759 and critical value of 12.592, <b><u>the null hypothesis is rejected</u></b>. This means that there is a significant association between the variables being analyzed, based on a significance level of 0.05 and degrees of freedom of 6.</p>
 
-<img src="figures/chi-square-size-vs-response.png">
+<img src="https://github.com/vrundag91/industrial-survey-for-recruitment-process/blob/main/figures/chi-square-size-vs-response.png">
 
 <h2>Case - II Sector v/s Final Response</h2>
 
@@ -203,4 +203,4 @@
   <li><b>Not enough evidence to reject null hypothesis of independence:</b> Since the calculated value is less than the critical value, it indicates that there is not enough evidence to reject the null hypothesis of independence between the variables being analyzed.</li>
   <li><b>No significant association between variables being analyzed:</b> The lack of evidence to reject the null hypothesis suggests that there is no significant association between the variables being analyzed.</li>
 </ul>
-<img src="chi-square-sector-vs-response.png">
+<img src="https://github.com/vrundag91/industrial-survey-for-recruitment-process/blob/main/figures/chi-square-sector-vs-response.png">
