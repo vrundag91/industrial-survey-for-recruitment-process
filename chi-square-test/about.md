@@ -87,7 +87,6 @@
   <li>Observed frequency is the actual number of observations in a given cell of the contingency table</li>
   <li>Expected frequency is the number of observations that would be expected in that cell if the variables being analyzed are independent, calculated using the formula: (Row Total * Column Total) / Grand Total</li>
   <li>Σ represents the sum of the differences between the observed and expected frequencies squared, divided by the expected frequency, for each cell in the contingency table</li>
-  <li></li>
 </ul>
 
 <p>Using the above equation, we computed the vaule of χ2,</p>
@@ -122,32 +121,39 @@
     <td><b>Total</b></td>
   </tr>
   <tr>
-    <td><b>Micro</b></td>
+    <td><b>Education</b></td>
+    <td>12</td>
+    <td>12</td>
     <td>2</td>
-    <td>3</td>
-    <td>2</td>
-    <td>7</td>
+    <td>26</td>
   </tr>
   <tr>
-    <td><b>Small</b></td>
-    <td>6</td>
-    <td>10</td>
-    <td>9</td>
+    <td><b>Finance</b></td>
+    <td>16</td>
+    <td>7</td>
+    <td>2</td>
     <td>25</td>
   </tr>
   <tr>
-    <td><b>Medium</b></td>
-    <td>18</td>
-    <td>20</td>
+    <td><b>IT</b></td>
+    <td>10</td>
+    <td>21</td>
     <td>2</td>
-    <td>40</td>
+    <td>23</td>
   </tr>
   <tr>
-    <td><b>Large</b></td>
-    <td>37</td>
-    <td>11</td>
+    <td><b>Legal</b></td>
+    <td>15</td>
     <td>6</td>
-    <td>54</td>
+    <td>5</td>
+    <td>26</td>
+  </tr>
+  <tr>
+    <td><b>Others</b></td>
+    <td>10</td>
+    <td>8</td>
+    <td>8</td>
+    <td>26</td>
   </tr>
   <tr>
     <td><b>Total</b></td>
