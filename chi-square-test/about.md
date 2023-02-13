@@ -163,3 +163,41 @@
     <td>126</td>
   </tr>
  </table>
+
+<h3>Set-up the Null Hypothesis and Alternative Hypothesis</h3>
+
+<p><b>H0:</b> There is no Relationship between the Indistry Sector and Response</p>
+<p><b>H1</b> There is a Relationship between Indistry Sector and Response</p>
+
+<h3>Selecting Alpha:</h3>
+<p>The significant Level | value of α = 0.05</p>
+
+<h3>Computing the Degree of Freedom:</h3>
+<p>DF = (#rows-1)(#columns-1)</p>
+<p>   = (5-1)*(3-1)</p>
+<p>   = (4)*(2)</p>
+<p>   = 8</p>
+
+<h3>Compute the expected Frequency Table:</h3>
+<p><a href="https://github.com/vrundag91/industrial-survey-for-recruitment-process/blob/main/chi-square-test/about.md#compute-the-expected-frequency-table">Click here for details (As done in above case)</a></p>
+
+<h3>Compute the χ2 test stistics:</h3>
+<p>Using the <a href="https://github.com/vrundag91/industrial-survey-for-recruitment-process/blob/main/chi-square-test/about.md#compute-the-%CF%872-test-stistics">above equation and theory</a>, we computed the vaule of χ2</p>
+<p><b><u>χ2 = 12.7396</u></b></p>
+
+<p>Now, we have:</p>
+<p>α = 0.05</p>
+<p>DF = 8</p>
+
+<p><b><u>χ2(8,0.05) = 15.5703</u></b></p>
+
+<h3>Summary:</h3>
+<ul>
+  <li><b>Chi-square test was performed:</b> A chi-square test is a statistical method used to determine the association between two categorical variables.</li>
+  <li><b>Significance level (alpha) set to 0.05:</b> The significance level determines the level of risk one is willing to take in rejecting the null hypothesis when it is actually true. A common value for alpha is 0.05.</li>
+  <li><b>Degrees of freedom (df) set to 8:</b> The degrees of freedom is a measure of the number of independent observations in the sample data and is used to determine the critical value in a chi-square distribution table.</li>
+  <li><b>Calculated chi-square value was 12.7396:</b></li>
+  <li><b>Critical value was 15.5703:</b> The critical value separates the region of rejection and the region of non-rejection of the null hypothesis.</li>
+  <li><b>Not enough evidence to reject null hypothesis of independence:</b> Since the calculated value is less than the critical value, it indicates that there is not enough evidence to reject the null hypothesis of independence between the variables being analyzed.</li>
+  <li><b>No significant association between variables being analyzed:</b> The lack of evidence to reject the null hypothesis suggests that there is no significant association between the variables being analyzed.</li>
+</ul>
