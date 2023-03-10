@@ -1,6 +1,6 @@
 
 
-<! -- <h1>Industrial Survey For Recruitment Process</h1>
+<!-- <h1>Industrial Survey For Recruitment Process</h1>
 <ul>
     <li>The survey is conducted for tier-1 cities of India – Delhi, Mumbai, Bangalore, Chennai, Hyderabad, Kolkata, Ahmedabad, and Pune)</li>
     <li>This survey is targeted to collect data from IT, Finance, Legal and Higher Education sectors. (Though, we received good response from other sectors like Pharma, Consultancies, Event Management, Manufacturing and treading Sectors)</li>
