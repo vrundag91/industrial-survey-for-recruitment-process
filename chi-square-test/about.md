@@ -1,4 +1,4 @@
-<!-- <h1>Chi-Square Test for Industrial Survey</h1>
+<h1>Chi-Square Test for Industrial Survey</h1>
 <h2>Case - I Company Size v/s Final Response</h2>
 <p>Chi-square test is a statistical test used to determine if there is a significant association between two categorical variables. In this case, the two variables being analyzed are <b>"company size"</b> and <b>"final response from the industry".</b> The test is performed by calculating the difference between the expected frequencies and the observed frequencies in the contingency table and checking if the difference is significant enough to reject the null hypothesis, which assumes there is no association between the variables. If the p-value of the test is less than a predetermined significance level (usually 0.05), then we reject the null hypothesis and conclude that there is a significant association between the variables</p>
 
@@ -203,4 +203,4 @@
   <li><b>Not enough evidence to reject null hypothesis of independence:</b> Since the calculated value is less than the critical value, it indicates that there is not enough evidence to reject the null hypothesis of independence between the variables being analyzed.</li>
   <li><b>No significant association between variables being analyzed:</b> The lack of evidence to reject the null hypothesis suggests that there is no significant association between the variables being analyzed.</li>
 </ul>
-<img src="https://github.com/vrundag91/industrial-survey-for-recruitment-process/blob/main/figures/chi-square-sector-vs-response.png"> -->
+<img src="https://github.com/vrundag91/industrial-survey-for-recruitment-process/blob/main/figures/chi-square-sector-vs-response.png"> 
